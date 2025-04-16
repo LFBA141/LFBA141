@@ -36,7 +36,7 @@ Algunas de las herramientas y tecnologías con las que me gusta trabajar:
 ¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta! 
 
 - 📧 **Email**: [ingenieroferbermu@gmail.com](mailto:ingenieroferbermu@gmail.com)  
-- 💼 **LinkedIn**: [Luis Fernando Bermúdez Aldrete en LinkedIn](https:)  
+- 💼 **LinkedIn**: [Luis Fernando Bermúdez Aldrete en LinkedIn](https:www.linkedin.com/in/luis-fernando-bermúdez-aldrete-258470292)  
 - 🌐 **Portfolio**: [En construcción...](#)  
 
 ## Actividad Reciente en GitHub
