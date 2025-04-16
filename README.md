@@ -46,4 +46,4 @@ Algunas de las herramientas y tecnologías con las que me gusta trabajar:
 
 ---
 
-¡Gracias por visitar mi perfil!V
+¡Gracias por visitar mi perfil!
