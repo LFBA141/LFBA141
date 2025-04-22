@@ -32,7 +32,9 @@ Algunas de las herramientas y tecnologías con las que me gusta trabajar:
 <!-- (Si no tienes proyectos públicos aún, puedes omitir esta sección o dejarla como un marcador de posición para futuras actualizaciones). -->
 
 ### :zap: Actividad Reciente
+<!--RECENT_ACTIVITY:start-->
 
+<!--RECENT_ACTIVITY:last_update-->
 
 ## Contacto
 
