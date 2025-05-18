@@ -37,11 +37,10 @@ Algunas de las herramientas y tecnologías con las que me gusta trabajar:
 2. ⬆️ Pushed 1 commit(s) to [LFBA141/LFBA141](https://github.com/LFBA141/LFBA141)<br>
 3. ⬆️ Pushed 1 commit(s) to [LFBA141/LFBA141](https://github.com/LFBA141/LFBA141)<br>
 4. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
-5. ⬆️ Pushed 1 commit(s) to [LFBA141/LFBA141.github.io.](https://github.com/LFBA141/LFBA141.github.io.)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 17th, 2025, 1:37:16 AM
+Last Updated: Sunday, May 18th, 2025, 1:45:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Contacto
