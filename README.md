@@ -33,13 +33,14 @@ Algunas de las herramientas y tecnologías con las que me gusta trabajar:
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [LFBA141/bolt-admin-dashboard](https://github.com/LFBA141/bolt-admin-dashboard) from [Klerith/bolt-admin-dashboard](https://github.com/Klerith/bolt-admin-dashboard)<br>
-2. ⭐ Starred [Klerith/nest-heroes-backend](https://github.com/Klerith/nest-heroes-backend)<br>
-3. 🔱 Forked [LFBA141/nest-heroes-backend](https://github.com/LFBA141/nest-heroes-backend) from [Klerith/nest-heroes-backend](https://github.com/Klerith/nest-heroes-backend)<br>
+1. 🔱 Forked [LFBA141/nest-teslo-shop](https://github.com/LFBA141/nest-teslo-shop) from [Klerith/nest-teslo-shop](https://github.com/Klerith/nest-teslo-shop)<br>
+2. 🔱 Forked [LFBA141/bolt-admin-dashboard](https://github.com/LFBA141/bolt-admin-dashboard) from [Klerith/bolt-admin-dashboard](https://github.com/Klerith/bolt-admin-dashboard)<br>
+3. ⭐ Starred [Klerith/nest-heroes-backend](https://github.com/Klerith/nest-heroes-backend)<br>
+4. 🔱 Forked [LFBA141/nest-heroes-backend](https://github.com/LFBA141/nest-heroes-backend) from [Klerith/nest-heroes-backend](https://github.com/Klerith/nest-heroes-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 28th, 2026, 3:21:03 AM
+Last Updated: Wednesday, April 29th, 2026, 2:57:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Contacto
